@@ -7,7 +7,7 @@
 
 ---
 
-## Int와 UInt
+## [Int와 UInt](https://github.com/JIWON1923/Swift/blob/main/03.데이터%20타입%20기본/IntAndUInt/IntAndUInt/main.swift)
 - 공통 정의
     - 정수 타입
     - max, min 프로퍼티로 최댓값과 최솟값을 확인 가능하다.
@@ -20,7 +20,7 @@
 - UInt
     - 0을 포함한 양의 정수
 
-- 진수에 따른 정수 표기
+- [진수에 따른 정수 표기](https://github.com/JIWON1923/Swift/blob/main/03.데이터%20타입%20기본/IntegerExpression/IntegerExpression/main.swift)
     - 10진수 : 동일하게 작성
     - 2진수  : 0b (binary)
     - 8진수  : 0o (octal)
@@ -33,12 +33,13 @@
     
 ---
     
-## Bool
+## [Bool](https://github.com/JIWON1923/Swift/blob/main/03.데이터%20타입%20기본/Bool/Bool/main.swift)
 - true, false 값을 갖는 타입
+- toggle()을 통해 값 반전이 가능하다.
 
 ---
 
-## Float와 Double
+## [Float와 Double](https://github.com/JIWON1923/Swift/blob/main/03.데이터%20타입%20기본/FloatAndDouble/FloatAndDouble/main.swift)
 - 공통 정의
     - 부동소수점을 사용하는 실수(부동소수 타입)이다.
     - 소숫점 자리가 있는 수이다.
@@ -53,7 +54,7 @@
     
 ---
 
-## Character
+## [Character](https://github.com/JIWON1923/Swift/blob/main/03.데이터%20타입%20기본/Character/Character/main.swift)
 
 - 단 하나의 문자를 의미한다.
 - 유니코드에서 지원하는 언어, 특수기호를 사용할 수 있다.
@@ -61,7 +62,7 @@
 
 ---
 
-## String
+## [String](https://github.com/JIWON1923/Swift/blob/main/03.데이터%20타입%20기본/String/String/main.swift)
 - 기본
     - 문자열을 의미한다.
     - 유니코드 9를 사용할 수 있으며, 큰 따옴표를 사용하여 표현한다. 
@@ -76,7 +77,7 @@
     
 ---
 
-## Any, AnyObject와 nil
+## [Any, AnyObject와 nil](https://github.com/JIWON1923/Swift/blob/main/03.데이터%20타입%20기본/AnyObjectAndnil/AnyObjectAndnil/main.swift)
 - Any
     - 모든 데이터 타입을 사용할 수 있다는 의미이다.
     - 변수나 상수가 Any로 지정되어 있다면, 모든 데이터 타입을 할당할 수 있다.
