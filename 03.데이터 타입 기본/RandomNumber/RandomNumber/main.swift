@@ -1,0 +1,8 @@
+var randomInt: Int = Int.random(in: -100 ... 100)
+print(randomInt)
+var randomUInt: UInt = UInt.random(in: 1 ... 30)
+print(randomUInt)
+var randomDouble: Double = Double.random(in: 1.5 ... 4.3)
+print(randomDouble)
+var randomFlaot: Float = Float.random(in: -0.5 ... 1.5)
+print(randomFlaot)
