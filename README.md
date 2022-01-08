@@ -3,7 +3,7 @@
 - [x] [1. Swift의 기본](https://github.com/JIWON1923/Swift/tree/main/01.Swift의%20기본)
 - [x] [2. 변수와 상수](https://github.com/JIWON1923/Swift/tree/main/02.변수와%20상수)
 - [x] [3. 데이터 타입 기본](https://github.com/JIWON1923/Swift/tree/main/03.데이터%20타입%20기본)
-- [x] 4. [데이터 타입 고급](https://github.com/JIWON1923/Swift/tree/main/04.데이터%20타입%20고급)
+- [x] [4. 데이터 타입 고급](https://github.com/JIWON1923/Swift/tree/main/04.데이터%20타입%20고급)
 - [ ] 5. 연산자
 - [ ] 6. 흐름 제어
 - [ ] 7. 함수
