@@ -6,8 +6,8 @@
 - [x] [4. 데이터 타입 고급](https://github.com/JIWON1923/Swift/tree/main/04.데이터%20타입%20고급)
 - [x] [5. 연산자](https://github.com/JIWON1923/Swift/tree/main/05.연산자)
 - [x] [6. 흐름 제어](https://github.com/JIWON1923/Swift/tree/main/06.흐름%제어)
-- [ ] 7. 함수
-- [ ] 8. 옵셔널 
+- [x] [7. 함수](https://github.com/JIWON1923/Swift/tree/main/07.함수)
+- [x] [8. 옵셔널 ](https://github.com/JIWON1923/Swift/tree/main/08.%20옵셔널)
 ---
 
 ### 객체지향 프로그래밍과 스위프트
