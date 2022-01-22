@@ -14,8 +14,8 @@
 
 ---
 
-## [옵셔널 사용]
-- 옵셔널의 기본
+## 옵셔널 사용
+- [옵셔널의 기본](https://github.com/JIWON1923/Swift/blob/main/08.%20옵셔널/optionalVariable/optionalVariable/main.swift)
     - 옵셔널 변수나 상수가 아니라면 nil을 할당할 수 없다.(컴파일 에러)
     - 해당 변수나 상수는 값이 nil일 수 있으므로 사용에 주의하라는 뜻으로 받아들인다.
     - 값이 없는 옵셔널 변수나 상수에 접근하면 런타임 오류가 발생한다.
@@ -33,17 +33,17 @@ var 변수명: Optional<자료형> = 값 // 동일한 표현
     
 ---
 
-## [옵셔널 추출]
+## 옵셔널 추출
 열거형의 some 케이스로 옵셔널의 값을 옵셔널이 아닌 값으로 추출하는 것이다.
 
-- 강제 추출
+- [강제 추출](https://github.com/JIWON1923/Swift/blob/main/08.%20옵셔널/forcedUnwrapping/forcedUnwrapping/main.swift)
     - 옵셔널 값을 추출하는 가장 간단하지만 **가장 위험한 방법**이다.
     - 런타임 오류가 일어날 가능성이 가장 높기 때문이다.
     - 옵셔널 값에 !를 붙여주면 값을 강제로 추출하여 반환한다.
     - 만약, 강제 추출한 값이 nil이라면, 런타임 오류가 발생한다.
     - 런타임 오류의 가능성이 내포되어 지양해야한다.
     
-- 옵셔널 바인딩
+- [옵셔널 바인딩](https://github.com/JIWON1923/Swift/blob/main/08.%20옵셔널/optionnalBinding/optionnalBinding/main.swift)
     - 옵셔널에 값이 있는지 확인할 때 사용한다.
     - 값이 있다면, 옵셔널에서 추출한 값을 일정 블록 내에서 사용할 수 있는 상수나 변수로 할당하여 사용할 수 있도록 한다.
     
