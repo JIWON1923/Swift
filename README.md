@@ -12,8 +12,8 @@
 
 ### 객체지향 프로그래밍과 스위프트
 - [x] [9. 구조체와 클래스](https://github.com/JIWON1923/Swift/tree/main/09.구조체와%20클래스)
-- [ ] [10. 프로퍼티와 메서드](https://github.com/JIWON1923/Swift/tree/main/10.프로퍼티와%20메서드)
-- [ ] [11. 인스턴스 생성 및 소멸](https://github.com/JIWON1923/Swift/tree/main/11.인스턴스%20생성%20및%20소멸)
+- [x] [10. 프로퍼티와 메서드](https://github.com/JIWON1923/Swift/tree/main/10.프로퍼티와%20메서드)
+- [x] [11. 인스턴스 생성 및 소멸](https://github.com/JIWON1923/Swift/tree/main/11.인스턴스%20생성%20및%20소멸)
 - [ ] [12. 접근 제어](https://github.com/JIWON1923/Swift/tree/main/12.접근제어)
 ---
 
