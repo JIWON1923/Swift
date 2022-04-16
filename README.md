@@ -20,8 +20,8 @@
 ### 함수형 프로그래밍과 스위프트
 - [x] [13. 클로저](https://github.com/JIWON1923/Swift/tree/main/13.클로저)
 - [x] [14. 옵셔널 체이닝과 빠른 종료](https://github.com/JIWON1923/Swift/tree/main/14.옵셔널%20체이닝과%20빠른%20종료)
-- [x] 15. 맵, 필터, 리듀스
-- [ ] 16. 모나드
+- [x] [15. 맵, 필터, 리듀스](https://github.com/JIWON1923/Swift/tree/main/15.맵%2C%20필터%2C%20리듀스)
+- [x] [16. 모나드](https://github.com/JIWON1923/Swift/tree/main/16.%20모나드)
 
 ---
 ### 확장
